@@ -4,7 +4,7 @@ title: "About"
 ---
 
 <div>
-  <img src="/assets/logo.png" class="sm:w-1/6 mx-auto ml-0" alt="coding dev illustration">
+  <img src="/assets/logo.png" class="sm:w-1/6 mx-auto ml-0 rounded-full" alt="coding dev illustration">
 </div>
 
 ## 基本信息
@@ -21,7 +21,7 @@ title: "About"
 - 熟悉大前端技术栈，有跨端容器、跨平台开发的经验验。
 - 自我驱动、执行力强，有较好的目标管理和落地能力。
 
-## 工作经历s
+## 工作经历
 
 ### 2021年5月 —— 至今
 
