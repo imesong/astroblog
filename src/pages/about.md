@@ -3,34 +3,37 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/logo.png" class="sm:w-1/6 mx-auto ml-0" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## 基本信息
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- 2013年毕业于河南理工大学，通信工程专业
+- 专注大前端领域，移动端 App研发，技术管理
+- 盖洛普优势：和谐、学习、审慎、交往、专注
 
-## Features
+## 专业技能
 
-Here are certain features of this site.
+- 专注 App 软件研发，10年Android 开发经验，4 年 10 人以上团队管理经验。
+- 熟悉大型 Android 项目的软件架构, 有复杂项目的架构治理、组件化落地实践。
+- 熟悉常用的性能优化方案和工具，对启动速度、内存、流畅度等有丰富的实践经验。
+- 熟悉大前端技术栈，有跨端容器、跨平台开发的经验验。
+- 自我驱动、执行力强，有较好的目标管理和落地能力。
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## 工作经历s
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+### 2021年5月 —— 至今
+
+字节跳动 - Tiktok - 国际化电商
+
+### 2014年3月——2021年5月 上海二三四五网络科技有限公司 创新孵化中心技术负责人
+
+- 负责创新孵化中心研发团队管理，孵化业务的项目管理，移动专业线技术负责人之一；
+- 负责可映、内容中心、玩赚星球、天气王、手机浏览器、移动数据统计等多种业务产品的开发；
+- 负责公司移动端人员招聘、移动方向技术评审，公司内部培训讲师；
+- 负责公司移动方向的规划和公共技术的调研，基础架构和性能优化；
+
+### 2013年7月——2014年3月 上海京天物联网科技有限公司 开发工程师
+
+- 客户端核心开发人员，负责基础框架搭建，数据采集、定位等核心功能的开发,独立完成两款移动 App 的交付；

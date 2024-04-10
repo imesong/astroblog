@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Mingalaba</h1>
+      <h1>imesong</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -40,22 +40,19 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </svg>
         <span class="sr-only">RSS Feed</span>
       </a>
+      <p>
+        ✦ 专注移动互联网软件研发和技术管理，10年 Android 开发经验，4 年 10
+        人以上团队管理经验
+      </p>
+      <p>✦ 熟悉大型 Android 项目的软件架构, 对复杂项目的架构治理、组件化方案</p>
+      <p>
+        ✦
+        熟悉常用的性能优化方案和工具，对启动速度、内存、流畅度等有丰富的实践经验
+      </p>
+      <p>✦ 熟悉大前端技术栈，有跨端容器、跨平台开发的经验。</p>
+      <p>✦ 自我驱动、执行力强，有较好的目标管理和落地能力。</p>
+      <p>✦ 盖洛普优势：和谐、学习、审慎、交往、专注</p>
 
-      <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
-      </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
@@ -122,42 +119,42 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   </main>
 
   <Footer />
+
+  <style>
+    /* ===== Hero Section ===== */
+    #hero {
+      @apply pb-6 pt-8;
+    }
+    #hero h1 {
+      @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+    }
+    #hero .rss-link {
+      @apply mb-6;
+    }
+    #hero .rss-icon {
+      @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
+    }
+    #hero p {
+      @apply my-2;
+    }
+    .social-wrapper {
+      @apply mt-4 flex flex-col sm:flex-row sm:items-center;
+    }
+    .social-links {
+      @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
+    }
+
+    /* ===== Featured & Recent Posts Sections ===== */
+    #featured,
+    #recent-posts {
+      @apply pb-6 pt-12;
+    }
+    #featured h2,
+    #recent-posts h2 {
+      @apply text-2xl font-semibold tracking-wide;
+    }
+    .all-posts-btn-wrapper {
+      @apply my-8 text-center;
+    }
+  </style>
 </Layout>
-
-<style>
-  /* ===== Hero Section ===== */
-  #hero {
-    @apply pb-6 pt-8;
-  }
-  #hero h1 {
-    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
-  }
-  #hero .rss-link {
-    @apply mb-6;
-  }
-  #hero .rss-icon {
-    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
-  }
-  #hero p {
-    @apply my-2;
-  }
-  .social-wrapper {
-    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
-  }
-  .social-links {
-    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
-  }
-
-  /* ===== Featured & Recent Posts Sections ===== */
-  #featured,
-  #recent-posts {
-    @apply pb-6 pt-12;
-  }
-  #featured h2,
-  #recent-posts h2 {
-    @apply text-2xl font-semibold tracking-wide;
-  }
-  .all-posts-btn-wrapper {
-    @apply my-8 text-center;
-  }
-</style>

@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://imesong.com/", // replace this with your deployed domain
   author: "imesong",
   desc: "A full-stack developer, pre-TikTok software engineer.",
-  title: "imesong.blog",
+  title: "imesong.com",
   ogImage: "astropaper-og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -17,13 +17,19 @@ export const LOCALE = {
 } as const;
 
 export const LOGO_IMAGE = {
-  enable: true,
-  svg: true,
+  enable: false,
+  svg: false,
   width: 216,
   height: 46,
 };
 
 export const SOCIALS: SocialObjects = [
+  {
+    name: "Mail",
+    href: "mailto:imesong@126.com",
+    linkTitle: `Send an email to ${SITE.title}`,
+    active: true,
+  },
   {
     name: "Github",
     href: "https://github.com/imesong",
@@ -48,17 +54,12 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on LinkedIn`,
     active: false,
   },
-  {
-    name: "Mail",
-    href: "mailto:imesong@126.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: true,
-  },
+
   {
     name: "Twitter",
     href: "https://twitter.com/imesong2012",
     linkTitle: `${SITE.title} on Twitter`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitch",
