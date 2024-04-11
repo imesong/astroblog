@@ -4,7 +4,7 @@ author: imesong
 pubDatetime: 2020-01-06 22:40:15
 modDatetime: 2020-01-06 22:40:15
 slug: 2019summary
-featured: true
+featured: false
 draft: false
 tags:
   - summary

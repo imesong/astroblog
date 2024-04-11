@@ -4,7 +4,7 @@ author: imesong
 pubDatetime: 2023-05-01
 modDatetime: 2023-05-01
 slug: MEM-管理类综合考试大纲
-featured: true
+featured: false
 draft: false
 tags:
   - mem

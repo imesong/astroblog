@@ -4,7 +4,7 @@ author: imesong
 pubDatetime: 2023-02-27 08:35:01
 modDatetime: 2023-02-27 08:35:01
 slug: hexo-迁移-升级记录
-featured: true
+featured: false
 draft: false
 tags:
   - blog
