@@ -1,7 +1,7 @@
 ---
 author: imesong
 pubDatetime: 2023-03-05
-modDatetime: 2024-04-10
+modDatetime: 2023-04-10
 title: 黄勇的OKR实战学习笔记
 slug: 黄勇的OKR实战学习笔记
 featured: true
