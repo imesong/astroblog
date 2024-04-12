@@ -3,7 +3,7 @@ title: OKR 笔记
 author: imesong
 pubDatetime: 2023-03-05
 slug: okr-notes
-featured: true
+featured: false
 draft: false
 tags:
   - okr

@@ -4,7 +4,7 @@ author: imesong
 pubDatetime: 2020-04-01 20:29:17
 modDatetime: 2020-04-01 20:29:17
 slug: 10x-engineer
-featured: true
+featured: false
 draft: false
 tags:
   - pkm

@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "imesong.com",
   ogImage: "astropaper-og.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 6,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 

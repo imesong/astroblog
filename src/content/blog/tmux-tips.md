@@ -4,7 +4,7 @@ pubDatetime: 2020-03-30 22:50:00
 modDatetime: 2023-04-05
 title: Tmux 使用小结
 slug: tmux-tips
-featured: true
+featured: false
 draft: false
 tags:
   - tool
