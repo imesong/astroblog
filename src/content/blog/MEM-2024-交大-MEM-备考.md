@@ -4,7 +4,7 @@ author: imesong
 pubDatetime: 2023-05-01
 modDatetime: 2023-05-02
 slug: 上海交大-MEM-备考
-featured: true
+featured: false
 draft: false
 tags:
   - mem

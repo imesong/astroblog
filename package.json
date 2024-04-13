@@ -1,5 +1,5 @@
 {
-  "name": "astro-paper",
+  "name": "imesong.com",
   "version": "4.2.0",
   "private": false,
   "scripts": {
@@ -18,8 +18,10 @@
   "dependencies": {
     "@astrojs/check": "^0.4.1",
     "@astrojs/rss": "^4.0.2",
+    "@notionhq/client": "^2.2.15",
     "@resvg/resvg-js": "^2.6.0",
     "astro": "^4.2.1",
+    "dotenv": "^16.4.5",
     "fuse.js": "^7.0.0",
     "github-slugger": "^2.0.0",
     "remark-collapse": "^0.1.2",

@@ -9,6 +9,8 @@ import Card from "@components/Card";
 import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import { SOCIALS } from "@config";
+import dotenv from "dotenv";
+dotenv.config();
 
 const posts = await getCollection("blog");
 
