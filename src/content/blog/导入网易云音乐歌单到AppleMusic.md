@@ -8,15 +8,8 @@ featured: true
 draft: false
 tags:
   - tool
-description: sth more
+description: 记录通过第三方工具，批量导入 网易云音乐歌单 到 AppleMusic 的方法
 ---
-
-## Summary
-
-<aside>
-💡 记录通过第三方工具，批量导入 网易云音乐歌单 到 AppleMusic 的方法
-
-</aside>
 
 ## 导出网易云歌单
 
