@@ -4,7 +4,7 @@ author: imesong
 pubDatetime: 2023-08-29
 modDatetime: 2023-08-31
 slug: 导入网易云音乐歌单到AppleMusic
-featured: true
+featured: false
 draft: false
 tags:
   - tool
