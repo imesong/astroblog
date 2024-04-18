@@ -9,7 +9,7 @@ import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
 import { SITE } from "@config";
 import Comments from "@components/Comment";
-
+import PostComments from "@components/PostComments.astro";
 export interface Props {
   post: CollectionEntry<"blog">;
 }
@@ -78,7 +78,8 @@ const layoutProps = {
       <Content />
     </article>
     <!-- 使用 client:only 指令 -->
-    <Comments client:only="react" />
+    <!-- <Comments client:only="react" /> -->
+    <PostComments />
     <ul class="my-8">
       {tags.map(tag => <Tag tag={slugifyStr(tag)} />)}
     </ul>
