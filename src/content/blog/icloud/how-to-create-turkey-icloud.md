@@ -3,12 +3,13 @@ title: 土耳其 iCloud 账号注册、充值、扩容教程
 author: imesong
 pubDatetime: 2024-04-28
 modDatetime: 2024-04-29
-slug: how-to-create-turkey-icloud
-featured: false
+slug: 土耳其-icloud-账号注册、充值、扩容教程
 draft: false
 tags:
   - iCloud
 description: 记录土耳其 iCloud+ 账号申请、礼品卡充值、创建共享家庭的步骤。
+featured: true
+heroImage: /src/content/blog/icloud/icloud-2023-05-01-1810.png
 ---
 
 ## 背景
