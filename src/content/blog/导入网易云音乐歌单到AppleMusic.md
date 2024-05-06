@@ -2,8 +2,8 @@
 title: 导入网易云音乐歌单到AppleMusic
 author: imesong
 pubDatetime: 2023-08-29
-modDatetime: 2023-08-31
-slug: 导入网易云音乐歌单到AppleMusic
+modDatetime: 2024-05-06T07:42:46.373Z
+slug: 导入网易云音乐歌单到-apple-music
 featured: false
 draft: false
 tags:
@@ -15,9 +15,9 @@ description: 记录通过第三方工具，批量导入 网易云音乐歌单 �
 
 1. 获取歌单 id 或 歌单 URL
 
-   ![获取歌单id/url](../../assets/images/2023/fetch-playlist-id.png)
+![](https://img.imesong.com/file/3a24c919fed82b74e41ac.png)
 
-   获取歌单id/url
+获取歌单id/url
 
 比如，我的歌单地址如下，标黄的部分为歌单 `id`
 
@@ -25,11 +25,11 @@ description: 记录通过第三方工具，批量导入 网易云音乐歌单 �
 
 1. 打开 [https://yyrcd.com/2018/11/14/n2s-zh/](https://yyrcd.com/2018/11/14/n2s-zh/)， 输入歌单 id 或者歌单的URL
 
-![歌单示例](../../assets/images/2023/playlist-sample.png)
+![](https://img.imesong.com/file/58b6d3d2587ed215044a8.png)
 
 歌单示例
 
-![输入歌单ID/URL](../../assets/images/2023/input-playlist-id.png)
+![](https://img.imesong.com/file/0ecc89fc26dd3a76aa830.png)
 
 输入歌单ID/URL
 
@@ -42,7 +42,7 @@ description: 记录通过第三方工具，批量导入 网易云音乐歌单 �
 
 导出的文字歌单，格式如下，·歌曲名 - 歌手·
 
-![导出的歌单文字](../../assets/images/2023/export-playlist-txt.png)
+![](https://img.imesong.com/file/49d95c53fe99a466a376c.png)
 
 ## TurnMyMusic 导入 AppleMusic
 
@@ -53,18 +53,16 @@ description: 记录通过第三方工具，批量导入 网易云音乐歌单 �
 3. 开始导入
 4. Done
 
-![import2apple-4](../../assets/images/2023/import2apple-4.png)
+![](https://img.imesong.com/file/f9555367895f3cd9bc9d3.png)
 
-![import2apple-5](../../assets/images/2023/import2apple-5.png)
+![](https://img.imesong.com/file/dc7ebda08f631e8875956.png)
 
-![import2apple-6](../../assets/images/2023/import2apple-6.png)
+![](https://img.imesong.com/file/7798c022840db6ed8e00d.png)
 
-![import2apple-7](../../assets/images/2023/import2apple-7.png)
+![](https://img.imesong.com/file/5700942725e26c4ce2cf8.png)
 
-![import2apple-8](../../assets/images/2023/import2apple-8.png)
-
-![import2apple-9](../../assets/images/2023/import2apple-9.png)
+![](https://img.imesong.com/file/eb1e7c5e64fb53e0dd867.png)
 
 导入到 AppleMusic 中，会有部分歌曲没有，或者导入失败。
 
-![import2apple-10](../../assets/images/2023/import2apple-10.png)
+![](https://img.imesong.com/file/c3b2f381a3decd685e050.png)
