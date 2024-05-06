@@ -33,12 +33,11 @@ heroImage: /src/content/blog/icloud/icloud-2023-05-01-1810.png
 3. iCloud 共享家庭，共享 存储容量
 
 **主要操作流程如图**
-
-![icloud-2023-05-01-1810.png](./icloud-2023-05-01-1810.png)
+![icloud-2023-05-01-1810.png](https://img.imesong.com/file/32592fedd082ca9325433.png)
 
 ## iCloud 账号注册
 
-**准备工作**
+### 准备工作
 
 - [ ] 没有注册过 iCloud 账号的 **QQ** 邮箱，作为 iCloud 账号。
 - [ ] 国内手机号，接受短信验证码。
@@ -47,23 +46,19 @@ heroImage: /src/content/blog/icloud/icloud-2023-05-01-1810.png
 
 1. 点击创建 Apple ID
 
-![login](./Untitled.png)
-
-login
+![00](https://img.imesong.com/file/ae393017a800924ef0216.png)
 
 1. 国家选择 土耳其
 
-![register](./Untitled1.png)
-
-register
+![01](https://img.imesong.com/file/5dcf99167c19b334cbef2.png)
 
 1. 输入QQ邮箱作为iCloud账号
 
-![Untitled](./Untitled2.png)
+![02](https://img.imesong.com/file/6a4150f8613b7c79141f7.png)
 
 1. 手机：填写大陆手机号
 
-![Untitled](./Untitled3.png)
+![03](https://img.imesong.com/file/29152a70240dab3a8e4ee.png)
 
 如果注册过程中出现弹窗，提示 **当前无法为你创建账号**
 
@@ -78,13 +73,13 @@ register
 
 完成注册后，在[https://appleid.apple.com/](https://appleid.apple.com/) 登陆刚才的账号。找到账号信息，补充付款信息，付款信息内容 【极其重要】，不然无法正确使用礼品卡购买 iCloud+ 。
 
-![Untitled](./Untitled4.png)
+![04](https://img.imesong.com/file/429bf10e4c22f81b2aa49.png)
 
-![Untitled](./Untitled5.png)
+![05](https://img.imesong.com/file/e7c34532a230af7bafa59.png)
 
-![Untitled](./Untitled6.png)
+![06](https://img.imesong.com/file/a62d54649d4a1a061426e.png)
 
-![Untitled](./Untitled7.png)
+![07](https://img.imesong.com/file/803f4901ebe3c122c1af2.png)
 
 付款方式的账单地址，一定要填写真实的地址。获取真实的地址方式很简单，在Google 地图中， 随便找一个餐馆即可。
 
@@ -93,13 +88,13 @@ register
 3. 点击 **附近**，再次搜索 **餐厅**
 4. 在搜索结果中任意选一个 ，复制 地址信息
 
-![Untitled](./Untitled8.png)
+![08](https://img.imesong.com/file/91019c2e3339a9f75412d.png)
 
-![Untitled](./Untitled9.png)
+![09](https://img.imesong.com/file/62ef225388fa6da5539ac.png)
 
-![Untitled](./Untitled10.png)
+![10](https://img.imesong.com/file/46dfc17571d38d3f5f044.png)
 
-![Untitled](./Untitled11.png)
+![11](https://img.imesong.com/file/7a6e6589545f8de12b8d0.png)
 
 ```bash
 **请按照 国家、城市、区、街道地址、单元号的格式，翻译下面的土耳其地址：**
@@ -119,9 +114,9 @@ register
 
 如果地址填写的有问题，在购买AppSore 商品是，会提示弹窗
 
-![Untitled](./Untitled12.png)
+![12](https://img.imesong.com/file/6a5ba5937d9368af1b46b.png)
 
-![Untitled](./Untitled13.png)
+![13](https://img.imesong.com/file/cfba4c87798922bd5c0e3.png)
 
 ## 土耳其 iCloud 礼品卡购买、使用
 
@@ -144,12 +139,12 @@ register
 
 打开 [oyunfor](https://www.oyunfor.com/) 网站， 点击注册，进入注册页面。
 
-![Untitled](./Untitled14.png)
+![14](https://img.imesong.com/file/3dce3ee220810e8c16e5b.png)
 
 1. 邮箱需要用来激活账号
 2. 手机号选择大陆手机号，接收短信验证码。
 
-![Untitled](./Untitled15.png)
+![15](https://img.imesong.com/file/2af0c57c4464ef183cd8e.png)
 
 ### 登陆 oyunfor
 
@@ -157,41 +152,41 @@ register
 
 邮件内容看不懂，注意下发件人 和 验证码内容即可。
 
-![Untitled](./Untitled16.png)
+![](https://img.imesong.com/file/766f4908b60646fb96c4b.png)
 
 登陆成功后，我们可以在首页账号信息的地方看到自己的姓名，AppStore 礼品卡购买入口。
 
-![Untitled](./Untitled17.png)
+![](https://img.imesong.com/file/1083dc2bbbad4b3c83cf3.png)
 
 点击购买入口，我们进入购买选择页面
 
-![Untitled](./Untitled18.png)
+![](https://img.imesong.com/file/57419bb3ea139fb299942.png)
 
 如果第一次购买，不太放心，可以购买少量确认一下流程。1¥ == 4.48 里拉。购买25个里拉，花费5.5¥。
 
-![Untitled](./Untitled19.png)
+![](https://img.imesong.com/file/a67bd8fed7142caa4f26d.png)
 
-![Untitled](./Untitled20.png)
+![](https://img.imesong.com/file/9682b65719f98f614f096.png)
 
 支付方式，选择 信用卡，其他的支付方式没试过。
 
-![Untitled](./Untitled21.png)
+![](https://img.imesong.com/file/3ede1e74c9ed99e9e184a.png)
 
-![Untitled](./Untitled22.png)
+![](https://img.imesong.com/file/da51f973e7873a96de7fe.png)
 
 支付的时候，如果遇到这个问题，需要关闭 WI-FI的 IPV6 访问，使用IPV4。支付成功后记得调整回来。
 
-![Untitled](./Untitled23.png)
+![](https://img.imesong.com/file/f2938ede728e3cecd81c6.png)
 
 输入信用卡信息
 
-![Untitled](./Untitled24.png)
+![](https://img.imesong.com/file/a83034518a8f190307e09.png)
 
 完成输入后，还有个支付确认页。
 
 整个流程做完后，在个人中心，可以看到订单的信息，
 
-![Untitled](./Untitled25.png)
+![](https://img.imesong.com/file/ced07bcadefff04f9d29e.png)
 
 Product Code 就是我们礼品卡的信息，这个需要保密，一旦泄漏被使用，是无法追回的。
 
@@ -199,11 +194,11 @@ Product Code 就是我们礼品卡的信息，这个需要保密，一旦泄漏�
 
 礼品卡使用比较简单，Mac、iPhone、iPad 上都可以。打开 AppStore ，进入个人设置页面
 
-![Untitled](./Untitled26.png)
+![](https://img.imesong.com/file/f1f249d89a49bfb856d6f.png)
 
 - Redeem Gift Card ：兑换礼品卡
 
-![Untitled](./Untitled27.png)
+![](https://img.imesong.com/file/da1d447fefffedbe266c2.png)
 
 兑换成功后，可以看一下自己的AppStore 中的余额。
 
@@ -215,7 +210,7 @@ Product Code 就是我们礼品卡的信息，这个需要保密，一旦泄漏�
 
 `【设置】》【自己头像】》【iCloud】》【管理储存空间】》【更改储存空间方案】`
 
-![Untitled](./Untitled28.png)
+![](https://img.imesong.com/file/a27666be76c6abc5c08fd.png)
 
 完成之后，看下自己的存储空间，是不是变为了 **200GB**
 
@@ -240,7 +235,7 @@ Product Code 就是我们礼品卡的信息，这个需要保密，一旦泄漏�
 
 然后，就可以把土区账号的iCloud空间分享给家庭的其他成员使用了。
 
-![Untitled](./Untitled29.png)
+![](https://img.imesong.com/file/bdfc3eaa7456242cb7a66.png)
 
 这样，我们就完成了土区iCloud 账号的注册，购买土耳其 AppStore 礼品卡，订阅土耳其 iCloud+计划，创建一个跨国家庭，并共享 iCloud+的存储空间。
 
