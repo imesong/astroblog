@@ -378,7 +378,7 @@ YYYY-mm-dd * ["payee"] "description"
 2. 通过 encrypt 软件加密文件，保证文件非明文存储，私钥单独存储
 3. iCloud Drive 备份加密后文件
 
-![元数据管理](../../assets/images/2023/beancount-meta-data.png)
+![元数据管理](https://img.imesong.com/file/ef918ae01e530fc5d0841.png)
 
 ## 完整的一个流程
 
