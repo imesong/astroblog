@@ -8,7 +8,6 @@ featured: true
 draft: false
 tags:
   - pkm
-  - notion
 description: 记录个人只是管理系统搭建、迭代的过程
 ---
 
