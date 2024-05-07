@@ -28,7 +28,6 @@
           "name": "author",
           "type": "string",
           "single": true
-
         },
         {
           "title": "pubDatetime",
@@ -62,12 +61,13 @@
           "type": "string"
         },
         {
-        "title": "heroImage",
-        "name": "heroImage",
-        "type": "image",
-        "isPreviewImage": true
+          "title": "heroImage",
+          "name": "heroImage",
+          "type": "image",
+          "isPreviewImage": true
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.dashboard.openOnStart": true
 }

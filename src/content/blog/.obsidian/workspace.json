@@ -11,51 +11,11 @@
             "id": "ffdf4cb7ef14be7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "055057b101891056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "79e58a4f0e065a06",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "6bb9ac2d89534f22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,11 +161,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bb9ac2d89534f22",
+  "active": "ffdf4cb7ef14be7e",
   "lastOpenFiles": [
-    "2024-05-07.md",
     "使用 CloudFlare 搭建免费图床教程.md",
+    "_templates/draft.md",
+    "_templates/adding-new-post.md",
+    "_templates",
+    "_excalidraw/pro-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
+    "_excalidraw/basic-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
+    "_excalidraw",
+    "终身幼儿园/recycle.png",
+    "example-draft-post.md",
+    "adding-new-post.md",
+    "如何导出照片正确的拍摄时间.md",
     "Excalidraw/basic-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
+    "2024-05-07.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-05-07 10.59.40.excalidraw.md",
     "Excalidraw/Drawing 2024-05-07 13.58.03.excalidraw.md",
@@ -217,7 +183,6 @@
     "Tasks Plugin - Review and check your Statuses 2024-05-07 13-36-44.md",
     "the-why-are-you-here-cafe.md",
     "Excalidraw",
-    "_templates/draft.md",
     "10x-engineer.md",
     "2019summary.md",
     "ecommerce/ecommerce-model-1-2023-03-18-1109.excalidraw.png",
@@ -227,15 +192,10 @@
     "pkm/personal-knowledge-management.md",
     "终身幼儿园/终身幼儿园笔记.md",
     "上海交大MEM优选面试/上海交大2024年MEM优选面试A档经验.md",
-    "终身幼儿园/recycle.png",
     "tmux-tips.md",
-    "如何导出照片正确的拍摄时间.md",
     "学习使用-beancount-记账.md",
     "想念理想.md",
     "导入网易云音乐歌单到AppleMusic.md",
-    "字节跳动2周年小记.md",
-    "_templates/adding-new-post.md",
-    "example-draft-post.md",
-    "_templates"
+    "字节跳动2周年小记.md"
   ]
 }
