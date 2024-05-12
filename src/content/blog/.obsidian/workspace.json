@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "52f986f5fcc2f0f4",
+        "id": "e3db861f26f056ce",
         "type": "tabs",
         "children": [
           {
-            "id": "ffdf4cb7ef14be7e",
+            "id": "9e49bba73fcf2fcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "使用 CloudFlare 搭建免费图床教程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "使用 CloudFlare 搭建免费图床教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "使用 CloudFlare 搭建免费图床教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "使用 CloudFlare 搭建免费图床教程.md"
+              }
             }
           },
           {
@@ -161,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffdf4cb7ef14be7e",
+  "active": "9e49bba73fcf2fcb",
   "lastOpenFiles": [
     "使用 CloudFlare 搭建免费图床教程.md",
     "_templates/draft.md",
