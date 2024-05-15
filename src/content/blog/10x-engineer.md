@@ -8,6 +8,7 @@ featured: false
 draft: false
 tags:
   - pkm
+  - booknote
 description: 程序员高效指南
 ---
 

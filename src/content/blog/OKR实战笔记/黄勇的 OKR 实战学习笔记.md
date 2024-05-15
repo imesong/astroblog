@@ -8,6 +8,7 @@ featured: false
 draft: false
 tags:
   - okr
+  - booknote
 description: 极客时间专栏学习笔记，摘录为主
 ---
 

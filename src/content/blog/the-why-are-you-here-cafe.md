@@ -7,7 +7,7 @@ slug: the-why-are-you-here-cafe
 featured: true
 draft: false
 tags:
-  - notes
+  - booknote
 description: 生活是一场修行，努力去探寻自己的 Purpose For Existing。
 ---
 

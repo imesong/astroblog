@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3db861f26f056ce",
+        "id": "81a450cb9daf2a58",
         "type": "tabs",
         "children": [
           {
-            "id": "9e49bba73fcf2fcb",
+            "id": "9e7c967ea1d9db4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md",
+                "file": "hexo迁移/hexo迁移记录.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md",
+                "file": "hexo迁移/hexo迁移记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md",
+                "file": "hexo迁移/hexo迁移记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用 CloudFlare 搭建免费图床教程.md"
+                "file": "hexo迁移/hexo迁移记录.md"
               }
             }
           },
@@ -165,16 +165,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e49bba73fcf2fcb",
+  "active": "9e7c967ea1d9db4e",
   "lastOpenFiles": [
-    "使用 CloudFlare 搭建免费图床教程.md",
+    "pkm/搭建个人知识管理系统v0.1.md",
+    "写作工具箱.md",
+    "booknotes/summary-booknote.md",
     "_templates/draft.md",
-    "_templates/adding-new-post.md",
+    "_draft/个人知识管理v0.2.md",
+    "pkm/pkm-backup-2023-03-16-2258.excalidraw.png",
+    "pkm/pkm-workflow-2023-03-16-1241.excalidraw.png",
+    "pkm/pkm-V0.1.png",
+    "pkm/pkm-process-workflow-2023-03-16-2258.excalidraw.png",
+    "pkm/pkm-blog-workflow-2023-03-26-2206.png",
+    "pkm/pkm-blog-publish-2023-03-16-2258.excalidraw.png",
+    "MEM备考/MEM-2024-交大-MEM-备考.md",
+    "icloud/土耳其 iCloud 账号注册、充值、扩容教程.md",
+    "学习使用-beancount-记账.md",
+    "MEM-MAB-管理类综合考试大纲.md",
+    "MEM-MBA-英语考试大纲.md",
+    "字节跳动2周年小记.md",
+    "okr-note.md",
+    "OKR实战笔记/黄勇的 OKR 实战学习笔记.md",
+    "10x-engineer.md",
+    "the-why-are-you-here-cafe.md",
+    "终身幼儿园笔记.md",
+    "booknotes",
+    "上海交大MEM优选面试/上海交大2024年MEM优选面试A档经验.md",
+    "MEM 英语考试大纲.md",
+    "_excalidraw/字节跳动 项目经历 2024-05-14 17.24.16.excalidraw.md",
+    "_excalidraw/XiaolaiMonoSC-Regular.ttf",
+    "_excalidraw/XiaolaiSC-Regular.ttf",
+    "使用 CloudFlare 搭建免费图床教程.md",
+    "_draft",
     "_templates",
     "_excalidraw/pro-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
     "_excalidraw/basic-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
@@ -183,28 +210,11 @@
     "example-draft-post.md",
     "adding-new-post.md",
     "如何导出照片正确的拍摄时间.md",
-    "Excalidraw/basic-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
-    "2024-05-07.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-05-07 10.59.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-07 13.58.03.excalidraw.md",
     "Untitled 1.canvas",
-    "Tasks Plugin - Review and check your Statuses 2024-05-07 13-36-44.md",
-    "the-why-are-you-here-cafe.md",
     "Excalidraw",
-    "10x-engineer.md",
-    "2019summary.md",
     "ecommerce/ecommerce-model-1-2023-03-18-1109.excalidraw.png",
     "ecommerce/20230326180720.png",
-    "ecommerce/20230326181525.png",
-    "ecommerce/电商行业知识.md",
-    "pkm/personal-knowledge-management.md",
-    "终身幼儿园/终身幼儿园笔记.md",
-    "上海交大MEM优选面试/上海交大2024年MEM优选面试A档经验.md",
-    "tmux-tips.md",
-    "学习使用-beancount-记账.md",
-    "想念理想.md",
-    "导入网易云音乐歌单到AppleMusic.md",
-    "字节跳动2周年小记.md"
+    "ecommerce/20230326181525.png"
   ]
 }
