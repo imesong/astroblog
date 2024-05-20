@@ -9,5 +9,8 @@
   "obsidian-image-auto-upload-plugin",
   "better-word-count",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "cm-chs-patch",
+  "obsidian-pangu",
+  "easy-typing-obsidian"
 ]

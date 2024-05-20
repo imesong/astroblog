@@ -1,8 +1,8 @@
 ---
-title: draft
+title: _draft
 author: imesong
-pubDatetime: 2024-04-11
-modDatetime: 2024-04-11
+pubDatetime:
+modDatetime: ""
 slug: example
 featured: false
 draft: true

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "81a450cb9daf2a58",
+        "id": "8d2e6805a74880ea",
         "type": "tabs",
         "children": [
           {
-            "id": "9e7c967ea1d9db4e",
+            "id": "186be79a7bc3cabb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hexo迁移/hexo迁移记录.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373.5110321044922
   },
   "right": {
     "id": "2946e8863262a652",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hexo迁移/hexo迁移记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hexo迁移/hexo迁移记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hexo迁移/hexo迁移记录.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,51 +161,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e7c967ea1d9db4e",
+  "active": "186be79a7bc3cabb",
   "lastOpenFiles": [
-    "pkm/搭建个人知识管理系统v0.1.md",
-    "写作工具箱.md",
-    "booknotes/summary-booknote.md",
-    "_templates/draft.md",
+    "2019summary.md",
+    "OKR-2024.md",
+    "okr-note.md",
+    "_excalidraw/okr-arch 2024-05-20 14.59.32.excalidraw.md",
+    "_templates/_draft.md",
+    "想念理想.md",
+    "OKR arch.canvas",
+    "_excalidraw/字节跳动 项目经历 2024-05-14 17.24.16.excalidraw.md",
+    "_draft/obsidian 使用总结.md",
     "_draft/个人知识管理v0.2.md",
-    "pkm/pkm-backup-2023-03-16-2258.excalidraw.png",
-    "pkm/pkm-workflow-2023-03-16-1241.excalidraw.png",
-    "pkm/pkm-V0.1.png",
-    "pkm/pkm-process-workflow-2023-03-16-2258.excalidraw.png",
-    "pkm/pkm-blog-workflow-2023-03-26-2206.png",
-    "pkm/pkm-blog-publish-2023-03-16-2258.excalidraw.png",
+    "上海交大MEM优选面试/上海交大2024年MEM优选面试A档经验.md",
+    "booknotes/summary-booknote.md",
+    "使用 CloudFlare 搭建免费图床教程.md",
+    "tmux-tips.md",
+    "the-why-are-you-here-cafe.md",
+    "OKR实战笔记/compare-okr-kpi.png",
+    "OKR实战笔记/data-struct.png",
+    "OKR实战笔记/diff-to-kpi.png",
+    "OKR实战笔记/how-to-use.png",
+    "OKR实战笔记/okr_history.png",
+    "OKR实战笔记/okr_history copy.png",
+    "OKR实战笔记/okr_principle.png",
+    "OKR实战笔记/okr-fenjie.png",
+    "OKR实战笔记/okr-grade.png",
+    "OKR实战笔记/okr-skills.png",
+    "OKR实战笔记/黄勇的 OKR 实战学习笔记.md",
+    "pkm/搭建个人知识管理系统v0.1.md",
+    "hexo迁移/hexo迁移记录.md",
+    "写作工具箱.md",
     "MEM备考/MEM-2024-交大-MEM-备考.md",
     "icloud/土耳其 iCloud 账号注册、充值、扩容教程.md",
     "学习使用-beancount-记账.md",
     "MEM-MAB-管理类综合考试大纲.md",
     "MEM-MBA-英语考试大纲.md",
     "字节跳动2周年小记.md",
-    "okr-note.md",
-    "OKR实战笔记/黄勇的 OKR 实战学习笔记.md",
     "10x-engineer.md",
-    "the-why-are-you-here-cafe.md",
     "终身幼儿园笔记.md",
     "booknotes",
-    "上海交大MEM优选面试/上海交大2024年MEM优选面试A档经验.md",
-    "MEM 英语考试大纲.md",
-    "_excalidraw/字节跳动 项目经历 2024-05-14 17.24.16.excalidraw.md",
     "_excalidraw/XiaolaiMonoSC-Regular.ttf",
     "_excalidraw/XiaolaiSC-Regular.ttf",
-    "使用 CloudFlare 搭建免费图床教程.md",
     "_draft",
     "_templates",
-    "_excalidraw/pro-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
-    "_excalidraw/basic-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
     "_excalidraw",
-    "终身幼儿园/recycle.png",
-    "example-draft-post.md",
-    "adding-new-post.md",
-    "如何导出照片正确的拍摄时间.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Excalidraw",
-    "ecommerce/ecommerce-model-1-2023-03-18-1109.excalidraw.png",
-    "ecommerce/20230326180720.png",
-    "ecommerce/20230326181525.png"
+    "Excalidraw"
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "templater-obsidian:_templates/_draft.md": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "I"
+    }
+  ]
+}

@@ -8,6 +8,7 @@ featured: false
 draft: false
 tags:
   - summary
+  - okr
 description: 2019年的碎碎念
 ---
 
