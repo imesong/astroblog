@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8d2e6805a74880ea",
+        "id": "e58b6f49ba8f26e3",
         "type": "tabs",
         "children": [
           {
-            "id": "186be79a7bc3cabb",
+            "id": "d1acac5edb374e3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "我的英语怎么了.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "我的英语怎么了.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "我的英语怎么了.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "我的英语怎么了.md"
+              }
             }
           },
           {
@@ -146,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 630.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,23 +170,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "186be79a7bc3cabb",
+  "active": "d1acac5edb374e3f",
   "lastOpenFiles": [
+    "雅思考试考什么.md",
+    "第一性原理.md",
+    "8周雅思7.5分冲刺计划.md",
+    "我的英语雅思备考资源.md",
+    "我的英语怎么了.md",
+    "《思考的框架》阅读笔记.md",
+    "2024我的OKR.md",
+    "《终身幼儿园》阅读笔记.md",
+    "想念理想.md",
+    "booknotes/booknote.md",
+    "_excalidraw/MY之旅-雅思备考规划-2024-05-23 16.33.25.excalidraw.md",
+    "_excalidraw/Untitled.canvas",
+    "《世界尽头的咖啡馆》阅读笔记.md",
+    "_templates/_booknote.md",
+    "_templates/_draft.md",
     "2019summary.md",
-    "OKR-2024.md",
     "okr-note.md",
     "_excalidraw/okr-arch 2024-05-20 14.59.32.excalidraw.md",
-    "_templates/_draft.md",
-    "想念理想.md",
     "OKR arch.canvas",
     "_excalidraw/字节跳动 项目经历 2024-05-14 17.24.16.excalidraw.md",
     "_draft/obsidian 使用总结.md",
     "_draft/个人知识管理v0.2.md",
     "上海交大MEM优选面试/上海交大2024年MEM优选面试A档经验.md",
-    "booknotes/summary-booknote.md",
     "使用 CloudFlare 搭建免费图床教程.md",
     "tmux-tips.md",
-    "the-why-are-you-here-cafe.md",
     "OKR实战笔记/compare-okr-kpi.png",
     "OKR实战笔记/data-struct.png",
     "OKR实战笔记/diff-to-kpi.png",
@@ -191,15 +210,6 @@
     "OKR实战笔记/黄勇的 OKR 实战学习笔记.md",
     "pkm/搭建个人知识管理系统v0.1.md",
     "hexo迁移/hexo迁移记录.md",
-    "写作工具箱.md",
-    "MEM备考/MEM-2024-交大-MEM-备考.md",
-    "icloud/土耳其 iCloud 账号注册、充值、扩容教程.md",
-    "学习使用-beancount-记账.md",
-    "MEM-MAB-管理类综合考试大纲.md",
-    "MEM-MBA-英语考试大纲.md",
-    "字节跳动2周年小记.md",
-    "10x-engineer.md",
-    "终身幼儿园笔记.md",
     "booknotes",
     "_excalidraw/XiaolaiMonoSC-Regular.ttf",
     "_excalidraw/XiaolaiSC-Regular.ttf",
