@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "e58b6f49ba8f26e3",
+        "id": "72573ec044421071",
         "type": "tabs",
         "children": [
           {
-            "id": "d1acac5edb374e3f",
+            "id": "89a3c8872aa55b1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我的英语怎么了.md",
+                "file": "8周雅思7.5分冲刺计划.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd2e0d440daa354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语综合能力测试-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ced31770a0a5d45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语综合能力测试-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5110321044922
+    "width": 300.5024719238281
   },
   "right": {
     "id": "2946e8863262a652",
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我的英语怎么了.md",
+                "file": "英语综合能力测试-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我的英语怎么了.md",
+                "file": "英语综合能力测试-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我的英语怎么了.md"
+                "file": "英语综合能力测试-2024.md"
               }
             }
           },
@@ -155,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 630.5
+    "width": 630.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,17 +198,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1acac5edb374e3f",
+  "active": "ced31770a0a5d45a",
   "lastOpenFiles": [
-    "雅思考试考什么.md",
-    "第一性原理.md",
+    "doing-《思考的框架》阅读笔记.md",
+    "英语综合能力测试-2024.md",
     "8周雅思7.5分冲刺计划.md",
+    "雅思考试考什么.md",
+    "马来西亚语言学校怎么选？.md",
+    "第一性原理.md",
     "我的英语雅思备考资源.md",
-    "我的英语怎么了.md",
-    "《思考的框架》阅读笔记.md",
+    "使用 CloudFlare 搭建免费图床教程.md",
+    "写作工具箱.md",
+    "字节跳动2周年小记.md",
+    "_draft/obsidian 使用总结.md",
+    "_draft/个人知识管理v0.2.md",
     "2024我的OKR.md",
-    "《终身幼儿园》阅读笔记.md",
     "想念理想.md",
+    "导入网易云音乐歌单到AppleMusic.md",
+    "《终身幼儿园》阅读笔记.md",
     "booknotes/booknote.md",
     "_excalidraw/MY之旅-雅思备考规划-2024-05-23 16.33.25.excalidraw.md",
     "_excalidraw/Untitled.canvas",
@@ -192,11 +227,7 @@
     "_excalidraw/okr-arch 2024-05-20 14.59.32.excalidraw.md",
     "OKR arch.canvas",
     "_excalidraw/字节跳动 项目经历 2024-05-14 17.24.16.excalidraw.md",
-    "_draft/obsidian 使用总结.md",
-    "_draft/个人知识管理v0.2.md",
     "上海交大MEM优选面试/上海交大2024年MEM优选面试A档经验.md",
-    "使用 CloudFlare 搭建免费图床教程.md",
-    "tmux-tips.md",
     "OKR实战笔记/compare-okr-kpi.png",
     "OKR实战笔记/data-struct.png",
     "OKR实战笔记/diff-to-kpi.png",
@@ -207,9 +238,6 @@
     "OKR实战笔记/okr-fenjie.png",
     "OKR实战笔记/okr-grade.png",
     "OKR实战笔记/okr-skills.png",
-    "OKR实战笔记/黄勇的 OKR 实战学习笔记.md",
-    "pkm/搭建个人知识管理系统v0.1.md",
-    "hexo迁移/hexo迁移记录.md",
     "booknotes",
     "_excalidraw/XiaolaiMonoSC-Regular.ttf",
     "_excalidraw/XiaolaiSC-Regular.ttf",
