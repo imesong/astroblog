@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6624a9ecd96b60a",
+        "id": "51bf9bf24256d2f5",
         "type": "tabs",
         "children": [
           {
-            "id": "770e7d2ad2670818",
+            "id": "1ddd5869241c225a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "马来西亚之旅-启程.md",
+                "file": "马来西亚TikTokShop和Lazada 测评.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "马来西亚之旅-启程.md",
+                "file": "马来西亚TikTokShop和Lazada 测评.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "马来西亚之旅-启程.md",
+                "file": "马来西亚TikTokShop和Lazada 测评.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "马来西亚之旅-启程.md"
+                "file": "马来西亚TikTokShop和Lazada 测评.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-omnivore:Omnivore": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,34 +172,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "770e7d2ad2670818",
+  "active": "1ddd5869241c225a",
   "lastOpenFiles": [
-    "2024我的OKR.md",
-    "doing-《思考的框架》阅读笔记.md",
-    "MEM-MAB-管理类综合考试大纲.md",
-    "MEM-MBA-英语考试大纲.md",
-    "okr-note.md",
-    "tmux-tips.md",
+    "Omnivore/2024-07-07/【404文库】丹江湖上钓鱼翁｜繁华渐逝：腹背受敌的中国经济（3万字长文）.md",
+    "马来西亚TikTokShop和Lazada 测评.md",
     "写作工具箱.md",
-    "如何导出照片正确的拍摄时间.md",
-    "想念理想.md",
-    "我的英语雅思备考资源.md",
-    "第一性原理.md",
-    "雅思考试考什么.md",
-    "马来西亚之旅-启程.md",
-    "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.md",
-    "_excalidraw/basic-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
-    "_excalidraw/MY之旅-雅思备考规划-2024-05-23 16.33.25.excalidraw.md",
-    "_excalidraw/okr-arch-2024-05-20 14.59.32.excalidraw.md",
-    "《世界尽头的咖啡馆》阅读笔记.md",
-    "《终身幼儿园》阅读笔记.md",
-    "8周雅思7.5分冲刺计划.md",
-    "英语综合能力测试-2024.md",
-    "马来西亚语言学校怎么选？.md",
     "使用 CloudFlare 搭建免费图床教程.md",
-    "字节跳动2周年小记.md",
-    "_draft/obsidian 使用总结.md",
-    "_draft/个人知识管理v0.2.md",
+    "okr-note.md",
+    "doing-《思考的框架》阅读笔记.md",
+    "Omnivore/2024-07-07",
+    "Omnivore/2024-07-06/Tom Huang on X- LlamaIndex 创始人 @jerryjliu0 在 AI Engineer 世界大会 @aiDotEngineer 上分享《知识助手的未来》，并正式发布并开....md",
+    "Omnivore/2024-07-06/Leo Xiang on X- 阿里通义语音团队开源了语音基座大模型：SenseVoice和CosyVoice，语音方向卷起来了。SenseVoice多语言音频理解大模型：多语言语音识别在中文和....md",
+    "Omnivore/2024-07-06/meng shao on X- Pipecat  @pipecat_ai 2.1k✨Pipecat 是一个用于构建语音（以及多模态）会话 Agent 的框架。它可以用于创建个人教练、会议助手、儿....md",
+    "Omnivore/2024-07-06/chaosflutter on X-  提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性的这个方案亲测效果非常不错。我一个小应用部署在 netlify ....md",
+    "Omnivore/2024-07-06/Jeffery Kaneda 金田達也 on X- 我日常最常用的，按用途分类的8个实用AI工具应用开发 → -Dify-最准确的AI搜索引擎 → - → -Canva-聊天机器人 → -Coz....md",
+    "Omnivore/2024-07-06/javayhu on X- 🥳 海棠诗社开源啦！🌸 海棠诗社，古诗词的数字桃源。👉 欢迎大家点赞 + 关注 + 转发 手动艾特大佬们 @astrodotbuild @DrizzleORM @li....md",
+    "Omnivore/2024-07-06",
+    "Omnivore/2024-07-05/Susan-STEM MOM on X- 美本通识课，月费99刀，买个半年，上完以下的全部课程，思考模式都会不一样。大学英语考过4级的，绝对没问题。考完高考的，借助GPT来上。作文好好写，用GP....md",
+    "Omnivore/2024-07-05",
+    "Omnivore/2024-07-04/meng shao on X- BeyondPDF  @omkizzy BeyondPDF 是一个智能、免费、完全私有本地化的基于 MacOS 的 PDF AI 预览和检索应用。作者将一个轻量级....md",
+    "Omnivore/2024-07-04/Tang🚀 on X- 兄弟们，如何润出去？刚才说到历史的垃圾时间，最优解当然是跑出去，到不是处于垃圾时间的国家去。我思来想去，我优先倾向于英语国家，最好英美。有懂行的朋友，给个建议吗？ pic....md",
+    "Omnivore/2024-07-04/向阳乔木 on X- 还在为记单词烦恼吗？你可能试用了一大堆工具，如不背单词、墨墨背单词、百词斩、多邻国等。总是坚持不了多久就放弃。最好的单词记忆应该基于阅读，有场景，有上下文，反复出现的生词，....md",
+    "Omnivore/2024-07-04/AIGCLINK on X- 10款PDF解析工具汇总：1、Doc2x可以将 PDF 文件转换为 Markdown、LaTeX、DOCX 可以解析排版、数学公式、表格、图片、图表等，对包含表格和....md",
+    "Omnivore/2024-07-04",
+    "Omnivore/2024-07-03/Samuel on X- 👉 Visit the new  Peek the source and go contribute at https---t.co-nR19UuZv7a.md",
+    "Omnivore/2024-07-03/Evan Long on X- 给大家分享一个可以提升部署在 cloudflare、vercel 或 netlify 的网页在中国的访问速度和稳定性类似  的开源免费实现方案在这里了👇：http....md",
+    "Omnivore/2024-07-03/Wei Jun on X- Resend 发布了一个 Handbook： ，独立开发者也可以学习借鉴一下里面的方法论和技术实践这个手册概述了Resend公司的管理理念和运作方式，包括6个方面：-....md",
+    "Omnivore/2024-07-03/Iconly Pro.md",
+    "Omnivore/2024-07-03",
+    "Omnivore/2024-07-02/Term 92 - 3B (1) 9am.md",
+    "Omnivore/2024-07-02/meng shao on X- Learn RAG with Langchain 🦜⛓️‍💥掌握 LangChain RAG 终极指南在当今快速发展的 GenAI 领域，生成高度精确且与上下文相关联的....md",
+    "Omnivore/2024-07-02",
+    "Omnivore/2024-07-01/知识管理的几个误区 - 安全代码.md",
+    "Omnivore/2024-07-01/Randy Lu on X- 有没有什么不错的 prompt 分享社区可以学习其它人写的好用的 prompt-.md",
+    "Omnivore/2024-07-01/Tap4 AI - 探索和使用2024最佳和最新AI工具.md",
+    "Omnivore/2024-07-01",
+    "Omnivore/2024-06-30",
+    "Omnivore/2024-06-28",
+    "Omnivore/2024-06-27",
+    "Untitled.canvas",
+    "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.svg",
+    "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.png",
     "_excalidraw/Untitled.canvas",
     "OKR arch.canvas",
     "OKR实战笔记/compare-okr-kpi.png",
@@ -209,15 +223,6 @@
     "OKR实战笔记/okr_history copy.png",
     "OKR实战笔记/okr_principle.png",
     "OKR实战笔记/okr-fenjie.png",
-    "OKR实战笔记/okr-grade.png",
-    "OKR实战笔记/okr-skills.png",
-    "booknotes",
-    "_excalidraw/XiaolaiMonoSC-Regular.ttf",
-    "_excalidraw/XiaolaiSC-Regular.ttf",
-    "_draft",
-    "_templates",
-    "_excalidraw",
-    "Untitled 1.canvas",
-    "Excalidraw"
+    "Untitled 1.canvas"
   ]
 }
