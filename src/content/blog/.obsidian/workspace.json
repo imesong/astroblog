@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "51bf9bf24256d2f5",
+        "id": "4d30c41257525a10",
         "type": "tabs",
         "children": [
           {
-            "id": "1ddd5869241c225a",
+            "id": "01c98dad656f7df8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "马来西亚TikTokShop和Lazada 测评.md",
+                "file": "新加坡之旅.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5024719238281
+    "width": 284.5024719238281
   },
   "right": {
     "id": "2946e8863262a652",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "马来西亚TikTokShop和Lazada 测评.md",
+                "file": "新加坡之旅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "马来西亚TikTokShop和Lazada 测评.md",
+                "file": "新加坡之旅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "马来西亚TikTokShop和Lazada 测评.md"
+                "file": "新加坡之旅.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -172,9 +172,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ddd5869241c225a",
+  "active": "01c98dad656f7df8",
   "lastOpenFiles": [
+    "_excalidraw/Singapore-Travelling-2024-07-07 22.08.10.excalidraw.md",
+    "新加坡之旅.md",
+    "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.md",
+    "_excalidraw/字节跳动 项目经历 2024-05-14 17.24.16.excalidraw.md",
+    "_excalidraw/pro-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
+    "_excalidraw/MY之旅-雅思备考规划-2024-05-23 16.33.25.excalidraw.md",
     "_excalidraw/Drawing 2024-07-07 21.47.52.excalidraw.md",
+    "_excalidraw/Drawing 2024-06-23 15.43.30.excalidraw.md",
     "马来西亚TikTokShop和Lazada 测评.md",
     "Omnivore/2024-07-07/【404文库】丹江湖上钓鱼翁｜繁华渐逝：腹背受敌的中国经济（3万字长文）.md",
     "写作工具箱.md",
@@ -197,15 +204,8 @@
     "Omnivore/2024-07-04/AIGCLINK on X- 10款PDF解析工具汇总：1、Doc2x可以将 PDF 文件转换为 Markdown、LaTeX、DOCX 可以解析排版、数学公式、表格、图片、图表等，对包含表格和....md",
     "Omnivore/2024-07-04",
     "Omnivore/2024-07-03/Samuel on X- 👉 Visit the new  Peek the source and go contribute at https---t.co-nR19UuZv7a.md",
-    "Omnivore/2024-07-03/Evan Long on X- 给大家分享一个可以提升部署在 cloudflare、vercel 或 netlify 的网页在中国的访问速度和稳定性类似  的开源免费实现方案在这里了👇：http....md",
-    "Omnivore/2024-07-03/Wei Jun on X- Resend 发布了一个 Handbook： ，独立开发者也可以学习借鉴一下里面的方法论和技术实践这个手册概述了Resend公司的管理理念和运作方式，包括6个方面：-....md",
-    "Omnivore/2024-07-03/Iconly Pro.md",
     "Omnivore/2024-07-03",
-    "Omnivore/2024-07-02/Term 92 - 3B (1) 9am.md",
-    "Omnivore/2024-07-02/meng shao on X- Learn RAG with Langchain 🦜⛓️‍💥掌握 LangChain RAG 终极指南在当今快速发展的 GenAI 领域，生成高度精确且与上下文相关联的....md",
     "Omnivore/2024-07-02",
-    "Omnivore/2024-07-01/知识管理的几个误区 - 安全代码.md",
-    "Omnivore/2024-07-01/Randy Lu on X- 有没有什么不错的 prompt 分享社区可以学习其它人写的好用的 prompt-.md",
     "Omnivore/2024-07-01",
     "Omnivore/2024-06-30",
     "Omnivore/2024-06-28",
