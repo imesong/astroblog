@@ -240,3 +240,7 @@ Product Code 就是我们礼品卡的信息，这个需要保密，一旦泄漏�
 这样，我们就完成了土区iCloud 账号的注册，购买土耳其 AppStore 礼品卡，订阅土耳其 iCloud+计划，创建一个跨国家庭，并共享 iCloud+的存储空间。
 
 如果你对 iCloud 扩容有兴趣，操作过程中有任何问题，可以留言或者联系作者。
+
+关注公众号 **技术后花园** 获取更多信息
+
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

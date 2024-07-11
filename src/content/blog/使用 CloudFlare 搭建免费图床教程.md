@@ -169,3 +169,7 @@ picGo 还有很多实用的插件，可以参考这里[更多 picGo 插件推荐
 > 以下内容是 AI 对本文的总结，供大家参考
 
 本文介绍了如何使用 CloudFlare Worker 搭建一个免费的图床，并通过与 PicGo 和 Obsidian 插件的配合，实现图片的简化管理和自动化上传，解决了博客图片存储和管理的问题。
+
+关注公众号 **技术后花园** 获取更多信息
+
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

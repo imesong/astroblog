@@ -279,3 +279,7 @@ leancloud_visitors:
 <https://zhangferry.com/2022/07/24/github_action_for_blog_deploy/>
 
 <https://makefile.so/2021/11/28/use-github-actions-to-deploy-hexo-blog/>
+
+关注公众号 **技术后花园** 获取更多信息
+
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

@@ -21,6 +21,8 @@ description: EnglishAny 出品的English学习课程，介绍如何通过更加�
 
 ![[power-learning-english-01-2024-07-11 12.34.30.excalidraw]]
 
+![image.png](https://img.imesong.com/file/f96ccbc7c01fd4b3830e6.png)
+
 下面是我个人根据自己理解，尝试用中文复述的视频大致内容。
 
 ## 主要内容概括
@@ -100,6 +102,7 @@ Looking forward to seeing you tomorrow and we also look forward to hearing about
 ## 我的 English Vision Board
 
 ![[English-Vision-Board-2024-07-11 22.04.52.excalidraw]]
+![image.png](https://img.imesong.com/file/dc51b038bfa87ebba58d3.png)
 
 ## 参考资源
 
@@ -111,5 +114,4 @@ Looking forward to seeing you tomorrow and we also look forward to hearing about
 
 在公众号消息中发送 **power-learning01**，获取文档中涉及的资源包下载链接。
 
-链接: https://pan.baidu.com/s/1svAsgT2E9TUR_hQDBcfCwg?pwd=t9qy 提取码: t9qy
---来自百度网盘超级会员 v 7 的分享
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

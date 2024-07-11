@@ -16,7 +16,10 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": ["_templates/_draft.md"],
+  "enabled_templates_hotkeys": [
+    "_templates/_draft.md",
+    "_templates/_bottom banner.md"
+  ],
   "startup_templates": [""],
   "enable_ribbon_icon": true
 }

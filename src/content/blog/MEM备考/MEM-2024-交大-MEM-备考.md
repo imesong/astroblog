@@ -202,3 +202,7 @@ MEM ：Master of Engineering Management，工程管理硕士，专业硕士学�
 详细的备考计划还在制作中，会在学习过程中不断完善，整体思路是先数据、逻辑，后英语、写作。
 
 ![MEM笔试备考计划.png](./20230502160340.png)
+
+关注公众号 **技术后花园** 获取更多信息
+
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

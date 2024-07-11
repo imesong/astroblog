@@ -66,3 +66,7 @@ description: 记录通过第三方工具，批量导入 网易云音乐歌单 �
 导入到 AppleMusic 中，会有部分歌曲没有，或者导入失败。
 
 ![](https://img.imesong.com/file/c3b2f381a3decd685e050.png)
+
+关注公众号 **技术后花园** 获取更多信息
+
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

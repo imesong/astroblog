@@ -118,3 +118,7 @@ description: 主观分析一波电商App的使用体验
 ### 品牌渗透度
 
 - Lazada 的品牌认同感和渗透率高于 TikTok Shop。课堂上刚好有个 Topic 讨论到线上购物。班级里几个马来西亚人、泰国人首先想到的是 Lazada，最后是我把 TikTokShop 添加到讨论的列表中，Temu 在东南亚也有很大的知名度。
+
+关注公众号 **技术后花园** 获取更多信息
+
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

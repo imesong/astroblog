@@ -258,3 +258,7 @@ description: 介绍研究生考试管理类综合考试大纲
 ## 逻辑大纲解析
 
 ## 写作大纲解析
+
+关注公众号 **技术后花园** 获取更多信息
+
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

@@ -4,5 +4,11 @@
       "modifiers": ["Mod", "Shift"],
       "key": "I"
     }
+  ],
+  "templater-obsidian:_templates/_bottom banner.md": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "B"
+    }
   ]
 }
