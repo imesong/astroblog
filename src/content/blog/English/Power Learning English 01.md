@@ -19,7 +19,7 @@ description: EnglishAny 出品的English学习课程，介绍如何通过更加�
 
 在介绍视频的具体内容之前，我还是想和大家分享一下，这篇文章的产出过程，编写这篇文章，也是一个比较有趣过程，探索如何使用AI ，在AI 的辅助下，提高写作效率。
 
-![[power-learning-english-01-2024-07-11 12.34.30.excalidraw]]
+[[power-learning-english-01-2024-07-11 12.34.30.excalidraw]]
 
 ![image.png](https://img.imesong.com/file/f96ccbc7c01fd4b3830e6.png)
 
@@ -101,7 +101,7 @@ Looking forward to seeing you tomorrow and we also look forward to hearing about
 
 ## 我的 English Vision Board
 
-![[English-Vision-Board-2024-07-11 22.04.52.excalidraw]]
+[[English-Vision-Board-2024-07-11 22.04.52.excalidraw]]
 ![image.png](https://img.imesong.com/file/dc51b038bfa87ebba58d3.png)
 
 ## 参考资源

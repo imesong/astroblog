@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI101-00.md",
-                "mode": "preview",
+                "file": "English/Power Learning English 01.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI101-00.md",
+                "file": "English/Power Learning English 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI101-00.md",
+                "file": "English/Power Learning English 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI101-00.md"
+                "file": "English/Power Learning English 01.md"
               }
             }
           },
@@ -174,6 +174,7 @@
   },
   "active": "58479576c8652c90",
   "lastOpenFiles": [
+    "AI/AI101-00.md",
     "AI/Prompt-Basic-Concept-00.md",
     "booknotes/booknote.md",
     "ecommerce/电商行业知识.md",
@@ -200,7 +201,6 @@
     "_excalidraw/power-learning-english-01-2024-07-11 12.34.30.excalidraw.md",
     "English/Power Learning English 01.md",
     "马来西亚TikTokShop和Lazada 测评.md",
-    "马来西亚之旅-启程.md",
     "English",
     "AI",
     "Omnivore/2024-07-07",
