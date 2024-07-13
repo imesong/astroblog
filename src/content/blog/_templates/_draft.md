@@ -1,8 +1,8 @@
 ---
 title: _draft
 author: imesong
-pubDatetime:
-modDatetime: ""
+createDatetime: ""
+editDatetime: ""
 slug: example
 featured: false
 draft: true

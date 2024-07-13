@@ -24,6 +24,8 @@
     "excalidraw-iframe-theme": "text",
     "excalidraw-open-md": "checkbox",
     "pubDatetime": "date",
-    "modDatetime": "date"
+    "modDatetime": "date",
+    "createDatetime": "date",
+    "editDatetime": "date"
   }
 }

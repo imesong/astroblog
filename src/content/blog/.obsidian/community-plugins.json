@@ -1,18 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
-  "dataview",
-  "obsidian-outliner",
   "templater-obsidian",
   "tag-wrangler",
   "oz-image-plugin",
   "obsidian-image-auto-upload-plugin",
-  "better-word-count",
-  "obsidian-tasks-plugin",
-  "obsidian-kanban",
-  "cm-chs-patch",
-  "obsidian-pangu",
-  "easy-typing-obsidian",
-  "obsidian-markmind",
-  "obsidian-omnivore"
+  "obsidian-tasks-plugin"
 ]
