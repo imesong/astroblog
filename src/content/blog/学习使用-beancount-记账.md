@@ -4,7 +4,7 @@ author: imesong
 pubDatetime: 2023-07-04
 modDatetime: 2023-12-02
 slug: beancount
-featured: true
+featured: false
 draft: false
 tags:
   - tool

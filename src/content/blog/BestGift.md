@@ -130,3 +130,7 @@ This gift of family - of love, responsibility, and harbour - is the greatest tre
 ## Slide6: Thank you
 
 ![slide6](https://img.imesong.com/file/c6867c440ec4c9999281c.png)
+
+关注公众号 **技术后花园** 获取更多信息
+
+![image.png](https://img.imesong.com/file/9e0dc4dc2d2acd363d535.png)

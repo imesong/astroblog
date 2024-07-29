@@ -4,7 +4,7 @@ author: imesong
 pubDatetime: 2024-07-10
 modDatetime: 2024-07-10
 slug: Power-Learning-English
-featured: true
+featured: false
 draft: false
 tags:
   - English
