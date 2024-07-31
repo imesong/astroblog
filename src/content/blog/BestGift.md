@@ -10,6 +10,10 @@ draft: false
 tags:
   - English
 description: the final presentation  at Stratford Language School
+keywords:
+  - family
+  - gift
+  - love
 ---
 
 ---
