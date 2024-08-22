@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BestGift.md",
+                "file": "大陆人香港银行开卡攻略.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fc43bd84312a3546",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_excalidraw/香港银行开卡流程 2024-08-21 15.24.52.excalidraw.md"
               }
             }
           }
@@ -70,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5024719238281
+    "width": 354.5024719238281
   },
   "right": {
     "id": "2946e8863262a652",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BestGift.md",
+                "file": "大陆人香港银行开卡攻略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BestGift.md",
+                "file": "大陆人香港银行开卡攻略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BestGift.md"
+                "file": "大陆人香港银行开卡攻略.md"
               }
             }
           },
@@ -149,14 +159,29 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "455399ea820a46bb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0abf7820c5695ef",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,34 +200,35 @@
   },
   "active": "140735a7d5828fb0",
   "lastOpenFiles": [
-    "pkm/搭建个人知识管理系统v0.1.md",
-    "ecommerce/电商行业知识.md",
-    "使用 CloudFlare 搭建免费图床教程.md",
+    "_excalidraw/香港银行开卡流程 2024-08-21 15.24.52.excalidraw.md",
+    "大陆人香港银行开卡攻略.md",
+    "imesong.com.md",
+    "_templates/_booknote.md",
+    "_templates/_power_learning_template.md",
+    "_templates/_draft.md",
+    "English/-我的英语雅思备考资源.md",
+    "English/-雅思考试考什么.md",
+    "English/8周雅思7.5分冲刺计划.md",
+    "English/英语综合能力测试-2024.md",
     "English/学英语，一定不能做的3个事情.md",
     "English/Power Learning English 01.md",
-    "2024我的OKR.md",
-    "8周雅思7.5分冲刺计划.md",
-    "《世界尽头的咖啡馆》阅读笔记.md",
-    "学习使用-beancount-记账.md",
-    "想念理想.md",
-    "BestGift.md",
-    "2019summary.md",
-    "().md",
-    "-写作工具箱.md",
-    "smart-chats",
-    "-《思考的框架》阅读笔记.md",
+    "马来西亚之旅-启程.md",
+    "okr-note.md",
     "《终身幼儿园》阅读笔记.md",
-    "_templates/_power_learning_template.md",
+    "《世界尽头的咖啡馆》阅读笔记.md",
+    "马来西亚TikTokShop和Lazada 测评.md",
+    "如何导出照片正确的拍摄时间.md",
     "_templates/_bottom banner.md",
-    "_templates/_draft.md",
-    "_templates/_booknote.md",
-    "AI/AI101-00.md",
-    "AI/Prompt-Basic-Concept-00.md",
-    "booknotes/booknote.md",
-    "hexo迁移/hexo迁移记录.md",
-    "icloud/土耳其 iCloud 账号注册、充值、扩容教程.md",
+    "新加坡之旅.md",
+    "BestGift.md",
+    "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.md",
+    "_excalidraw/pro-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
+    "_excalidraw/字节跳动 项目经历 2024-05-14 17.24.16.excalidraw.md",
+    "_excalidraw/Untitled.canvas",
+    "pkm/搭建个人知识管理系统v0.1.md",
+    "ecommerce/电商行业知识.md",
+    "smart-chats",
     "MEM备考/mem-book.webp",
-    "MEM备考/MEM-2024-交大-MEM-备考.md",
     "English",
     "AI",
     "Omnivore/2024-07-07",
@@ -215,7 +241,6 @@
     "Untitled.canvas",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.svg",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.png",
-    "_excalidraw/Untitled.canvas",
     "OKR arch.canvas",
     "OKR实战笔记/compare-okr-kpi.png",
     "OKR实战笔记/data-struct.png",
