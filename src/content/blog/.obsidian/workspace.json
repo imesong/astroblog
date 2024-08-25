@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "051c00e86b3226f2",
+        "id": "ae2721ed995f2ace",
         "type": "tabs",
         "children": [
           {
-            "id": "140735a7d5828fb0",
+            "id": "41b387268e22e3a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大陆人香港银行开卡攻略.md",
+                "file": "booknotes/《薛定谔的猫》阅读笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fc43bd84312a3546",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_excalidraw/香港银行开卡流程 2024-08-21 15.24.52.excalidraw.md"
               }
             }
           }
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大陆人香港银行开卡攻略.md",
+                "file": "booknotes/《薛定谔的猫》阅读笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大陆人香港银行开卡攻略.md",
+                "file": "booknotes/《薛定谔的猫》阅读笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大陆人香港银行开卡攻略.md"
+                "file": "booknotes/《薛定谔的猫》阅读笔记.md"
               }
             }
           },
@@ -181,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +189,22 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "140735a7d5828fb0",
+  "active": "41b387268e22e3a2",
   "lastOpenFiles": [
+    "booknotes/booknote.md",
+    "-《思考的框架》阅读笔记.md",
+    "-写作工具箱.md",
+    "-第一性原理.md",
+    "booknotes/《薛定谔的猫》阅读笔记.md",
+    "booknotes/《终身幼儿园》阅读笔记.md",
+    "booknotes/《世界尽头的咖啡馆》阅读笔记.md",
+    "_templates/_booknote.md",
+    "_excalidraw/薛定谔的猫-1-2024-08-25 17.44.16.excalidraw.md",
+    "_templates/_draft.md",
     "_excalidraw/香港银行开卡流程 2024-08-21 15.24.52.excalidraw.md",
     "大陆人香港银行开卡攻略.md",
     "imesong.com.md",
-    "_templates/_booknote.md",
     "_templates/_power_learning_template.md",
-    "_templates/_draft.md",
     "English/-我的英语雅思备考资源.md",
     "English/-雅思考试考什么.md",
     "English/8周雅思7.5分冲刺计划.md",
@@ -214,19 +213,11 @@
     "English/Power Learning English 01.md",
     "马来西亚之旅-启程.md",
     "okr-note.md",
-    "《终身幼儿园》阅读笔记.md",
-    "《世界尽头的咖啡馆》阅读笔记.md",
     "马来西亚TikTokShop和Lazada 测评.md",
     "如何导出照片正确的拍摄时间.md",
     "_templates/_bottom banner.md",
     "新加坡之旅.md",
-    "BestGift.md",
-    "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.md",
-    "_excalidraw/pro-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
-    "_excalidraw/字节跳动 项目经历 2024-05-14 17.24.16.excalidraw.md",
     "_excalidraw/Untitled.canvas",
-    "pkm/搭建个人知识管理系统v0.1.md",
-    "ecommerce/电商行业知识.md",
     "smart-chats",
     "MEM备考/mem-book.webp",
     "English",

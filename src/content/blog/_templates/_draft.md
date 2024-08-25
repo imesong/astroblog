@@ -1,7 +1,6 @@
 ---
 title: _draft
 author: imesong
-createDatetime: ""
 pubDatetime:
 editDatetime: ""
 slug: example
