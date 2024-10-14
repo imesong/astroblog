@@ -248,7 +248,7 @@ YYYY-mm-dd * ["payee"] "description"
 
   - 示例snippets
 
-  ````bash
+  ````json
         {
           "Coffee": {
             "scope": "beancount",
@@ -318,6 +318,8 @@ YYYY-mm-dd * ["payee"] "description"
         }
       ```
   ````
+
+````
 
 ## 账本的组织结构
 
@@ -432,3 +434,4 @@ YYYY-mm-dd * ["payee"] "description"
 [学习 Beancount 入门复式记账 | Verne in GitHub](https://einverne.github.io/post/2019/11/double-entry-bookkeeping.html)
 
 [请查收你的「开年变富攻略」：开发者如何借助开源工具，科学记账？ - 掘金](https://juejin.cn/post/7195762258962350141)
+````
