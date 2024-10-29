@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e117d380f1db519f",
+        "id": "a56287c18d781b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "3e8cfb5908f9cd43",
+            "id": "cb554d116b115203",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "咖啡患者的自我修养"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -49,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "第一性",
+                "query": "咖啡",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,14 +69,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 289.5024719238281
+    "width": 428.51103591918945
   },
   "right": {
     "id": "2946e8863262a652",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "咖啡患者的自我修养.md",
+                "file": "_draft/个人财务系统初探 v0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 个人财务系统初探 v0.1"
             }
           },
           {
@@ -103,10 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "咖啡患者的自我修养.md",
+                "file": "_draft/个人财务系统初探 v0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 个人财务系统初探 v0.1"
             }
           },
           {
@@ -117,7 +130,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "咖啡患者的自我修养.md"
-              }
+                "file": "_draft/个人财务系统初探 v0.1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 个人财务系统初探 v0.1"
             }
           },
           {
@@ -139,7 +156,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -147,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -155,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -163,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -184,19 +209,27 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e8cfb5908f9cd43",
+  "active": "cb554d116b115203",
   "lastOpenFiles": [
     "咖啡患者的自我修养.md",
-    "_excalidraw/咖啡之旅-2024-09-23.png",
     "_excalidraw/咖啡之旅-2024-09-23.md",
+    "_excalidraw/咖啡之旅-2024-09-23.png",
+    "_draft/个人财务系统初探 v0.1.md",
+    "Tasks Plugin - Review and check your Statuses 2024-10-21 15-05-53.md",
+    "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
+    "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.png",
+    "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "_excalidraw/Untitled.canvas",
     "学习使用-beancount-记账.md",
     "().md",
-    "_excalidraw/Untitled.canvas",
     "_draft/obsidian 使用总结.md",
     "_draft/个人知识管理v0.2.md",
     "booknotes/booknote.md",
@@ -213,11 +246,6 @@
     "_templates/_booknote.md",
     "_excalidraw/薛定谔的猫-1-2024-08-25 17.44.16.excalidraw.md",
     "_templates/_draft.md",
-    "_excalidraw/香港银行开卡流程 2024-08-21 15.24.52.excalidraw.md",
-    "大陆人香港银行开卡攻略.md",
-    "imesong.com.md",
-    "_templates/_power_learning_template.md",
-    "English/-我的英语雅思备考资源.md",
     "smart-chats",
     "MEM备考/mem-book.webp",
     "English",
@@ -226,9 +254,6 @@
     "Omnivore/2024-07-06",
     "Omnivore/2024-07-05",
     "Omnivore/2024-07-04",
-    "Omnivore/2024-07-03",
-    "Omnivore/2024-07-02",
-    "Omnivore/2024-07-01",
     "Untitled.canvas",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.svg",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.png",
@@ -237,8 +262,6 @@
     "OKR实战笔记/data-struct.png",
     "OKR实战笔记/diff-to-kpi.png",
     "OKR实战笔记/how-to-use.png",
-    "OKR实战笔记/okr_history.png",
-    "OKR实战笔记/okr_history copy.png",
     "Untitled 1.canvas"
   ]
 }
