@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb554d116b115203",
+            "id": "5aaed9fa71bd02c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "咖啡患者的自我修养.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "TOEIC,你需要知道的.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "咖啡患者的自我修养"
+              "title": "TOEIC,你需要知道的"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "咖啡",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 428.51103591918945
+    "width": 231.50390243530273
   },
   "right": {
     "id": "2946e8863262a652",
@@ -212,12 +211,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb554d116b115203",
+  "active": "5aaed9fa71bd02c0",
   "lastOpenFiles": [
+    "tmux-tips.md",
+    "_templates/_power_learning_template.md",
+    "_templates/_draft.md",
+    "_templates/_bottom banner.md",
+    "_templates/_booknote.md",
+    "TOEIC,你需要知道的.md",
+    "_draft/个人知识管理v0.2.md",
+    "_draft/个人财务系统初探 v0.1.md",
     "咖啡患者的自我修养.md",
     "_excalidraw/咖啡之旅-2024-09-23.md",
     "_excalidraw/咖啡之旅-2024-09-23.png",
-    "_draft/个人财务系统初探 v0.1.md",
     "Tasks Plugin - Review and check your Statuses 2024-10-21 15-05-53.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.png",
@@ -231,7 +237,6 @@
     "学习使用-beancount-记账.md",
     "().md",
     "_draft/obsidian 使用总结.md",
-    "_draft/个人知识管理v0.2.md",
     "booknotes/booknote.md",
     "booknotes/-《思考的框架》阅读笔记.md",
     "-写作工具箱.md",
@@ -241,11 +246,6 @@
     "玉米排骨汤.md",
     "新加坡之旅.md",
     "booknotes/《薛定谔的猫》阅读笔记.md",
-    "booknotes/《终身幼儿园》阅读笔记.md",
-    "booknotes/《世界尽头的咖啡馆》阅读笔记.md",
-    "_templates/_booknote.md",
-    "_excalidraw/薛定谔的猫-1-2024-08-25 17.44.16.excalidraw.md",
-    "_templates/_draft.md",
     "smart-chats",
     "MEM备考/mem-book.webp",
     "English",
