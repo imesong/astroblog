@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " 2024-10-21 15-05-53.m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,18 +214,18 @@
   },
   "active": "5aaed9fa71bd02c0",
   "lastOpenFiles": [
+    "Tasks Plugin - Review and check your Statuses 2024-10-21 15-05-53.md",
+    "TOEIC,你需要知道的.md",
+    "_templates/_booknote.md",
+    "_templates/_draft.md",
     "tmux-tips.md",
     "_templates/_power_learning_template.md",
-    "_templates/_draft.md",
     "_templates/_bottom banner.md",
-    "_templates/_booknote.md",
-    "TOEIC,你需要知道的.md",
     "_draft/个人知识管理v0.2.md",
     "_draft/个人财务系统初探 v0.1.md",
     "咖啡患者的自我修养.md",
     "_excalidraw/咖啡之旅-2024-09-23.md",
     "_excalidraw/咖啡之旅-2024-09-23.png",
-    "Tasks Plugin - Review and check your Statuses 2024-10-21 15-05-53.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.png",
     "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
