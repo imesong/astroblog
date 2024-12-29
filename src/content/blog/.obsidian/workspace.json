@@ -11,10 +11,15 @@
             "id": "a86d4201a361e3a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024/2024 阅读清单.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024 阅读清单"
             }
           }
         ]
@@ -206,8 +211,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09b624d68719ab2d",
+  "active": "a86d4201a361e3a3",
   "lastOpenFiles": [
+    "2024我的OKR.md",
+    "2024/2024 阅读清单.md",
+    "pkm/搭建个人知识管理系统v0.1.md",
+    "booknotes/booknote-hub.md",
+    "2024",
     "English/TOEIC,你需要知道的.md",
     "Tasks Plugin - Review and check your Statuses 2024-10-21 15-05-53.md",
     "_templates/_booknote.md",
@@ -232,15 +242,11 @@
     "学习使用-beancount-记账.md",
     "().md",
     "_draft/obsidian 使用总结.md",
-    "booknotes/booknote-hub.md",
     "booknotes/-《思考的框架》阅读笔记.md",
     "-写作工具箱.md",
     "AI/AI101-00.md",
     "smart-chats/UNTITLED CHAT 2024-09-04 05 34 33.md",
     "booknotes/-第一性原理.md",
-    "玉米排骨汤.md",
-    "新加坡之旅.md",
-    "booknotes/《薛定谔的猫》阅读笔记.md",
     "smart-chats",
     "MEM备考/mem-book.webp",
     "English",
@@ -248,7 +254,6 @@
     "Omnivore/2024-07-07",
     "Omnivore/2024-07-06",
     "Omnivore/2024-07-05",
-    "Omnivore/2024-07-04",
     "Untitled.canvas",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.svg",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.png",
