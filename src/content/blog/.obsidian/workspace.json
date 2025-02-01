@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35f93dfa97f6e563",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
             "id": "ffd05067f0db64c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/HHKB Professional Hybrid Type-S 使用指南.md",
+                "file": "2025/使用 Notion 打造个人财务系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HHKB Professional Hybrid Type-S 使用指南"
+              "title": "使用 Notion 打造个人财务系统"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.51103591918945
+    "width": 446.51103591918945
   },
   "right": {
     "id": "2946e8863262a652",
@@ -163,10 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_draft/个人财务系统初探 v0.1.md"
+                "file": "2025/使用 Notion 打造个人财务系统.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 个人财务系统初探 v0.1"
+              "title": "Outline of 使用 Notion 打造个人财务系统"
             }
           },
           {
@@ -214,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +225,11 @@
   },
   "active": "ffd05067f0db64c8",
   "lastOpenFiles": [
+    "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
+    "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
+    "_excalidraw/basic-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
+    "_excalidraw/pro-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
+    "2025/使用 Notion 打造个人财务系统.md",
     "2025/HHKB Professional Hybrid Type-S 使用指南.md",
     "2025",
     "2024我的OKR.md",
@@ -253,13 +247,10 @@
     "_templates/_power_learning_template.md",
     "_templates/_bottom banner.md",
     "_draft/个人知识管理v0.2.md",
-    "_draft/个人财务系统初探 v0.1.md",
     "咖啡患者的自我修养.md",
     "_excalidraw/咖啡之旅-2024-09-23.md",
     "_excalidraw/咖啡之旅-2024-09-23.png",
-    "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.png",
-    "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded",
@@ -269,8 +260,6 @@
     "学习使用-beancount-记账.md",
     "().md",
     "_draft/obsidian 使用总结.md",
-    "booknotes/-《思考的框架》阅读笔记.md",
-    "-写作工具箱.md",
     "smart-chats",
     "MEM备考/mem-book.webp",
     "English",
