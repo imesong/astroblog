@@ -1,10 +1,10 @@
 ---
-title: Personal Finance System v0.1
+title: Personal Finance System v0.2
 author: imesong
 pubDatetime: 2024-10-14
 editDatetime: 2025-02-01
 slug: Personal Finance System
-featured: false
+featured: true
 draft: false
 tags:
   - pkm
