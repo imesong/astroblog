@@ -4,25 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3356bcb9ab4026f9",
+        "id": "6709159c6d109f0d",
         "type": "tabs",
         "children": [
           {
-            "id": "d31111f595b91a02",
+            "id": "35f93dfa97f6e563",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "ffd05067f0db64c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/2024 年写的那些文字.md",
+                "file": "2025/HHKB Professional Hybrid Type-S 使用指南.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2024 年写的那些文字"
+              "title": "HHKB Professional Hybrid Type-S 使用指南"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.50390243530273
+    "width": 330.51103591918945
   },
   "right": {
     "id": "2946e8863262a652",
@@ -211,11 +234,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d31111f595b91a02",
+  "active": "ffd05067f0db64c8",
   "lastOpenFiles": [
-    "2024/2024 阅读清单.md",
-    "2024/2024 年写的那些文字.md",
+    "2025/HHKB Professional Hybrid Type-S 使用指南.md",
+    "2025",
     "2024我的OKR.md",
+    "想念理想.md",
+    "2024/2024 年写的那些文字.md",
+    "2024/2024 阅读清单.md",
     "pkm/搭建个人知识管理系统v0.1.md",
     "booknotes/booknote-hub.md",
     "2024",
@@ -245,15 +271,12 @@
     "_draft/obsidian 使用总结.md",
     "booknotes/-《思考的框架》阅读笔记.md",
     "-写作工具箱.md",
-    "AI/AI101-00.md",
-    "smart-chats/UNTITLED CHAT 2024-09-04 05 34 33.md",
     "smart-chats",
     "MEM备考/mem-book.webp",
     "English",
     "AI",
     "Omnivore/2024-07-07",
     "Omnivore/2024-07-06",
-    "Omnivore/2024-07-05",
     "Untitled.canvas",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.svg",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.png",
