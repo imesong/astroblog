@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/使用 Notion 打造个人财务系统.md",
+                "file": "2025/当你有一台 VPS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "使用 Notion 打造个人财务系统"
+              "title": "当你有一台 VPS"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/使用 Notion 打造个人财务系统.md",
+                "file": "2025/当你有一台 VPS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 使用 Notion 打造个人财务系统"
+              "title": "Outline of 当你有一台 VPS"
             }
           },
           {
@@ -225,11 +225,12 @@
   },
   "active": "ffd05067f0db64c8",
   "lastOpenFiles": [
+    "2025/使用 Notion 打造个人财务系统.md",
+    "2025/当你有一台 VPS.md",
     "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
     "_excalidraw/basic-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
     "_excalidraw/pro-self-host-image-service-2024-05-07 13.56.16.excalidraw.md",
-    "2025/使用 Notion 打造个人财务系统.md",
     "2025/HHKB Professional Hybrid Type-S 使用指南.md",
     "2025",
     "2024我的OKR.md",
@@ -259,7 +260,6 @@
     "_excalidraw/Untitled.canvas",
     "学习使用-beancount-记账.md",
     "().md",
-    "_draft/obsidian 使用总结.md",
     "smart-chats",
     "MEM备考/mem-book.webp",
     "English",
