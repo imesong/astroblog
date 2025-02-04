@@ -18,6 +18,7 @@ description: 记录 vps 部署及安装软件的过程
 - 本指南适用于 Ubuntu/Debian 系统
 - 所有命令默认以 root 用户执行
 - 请确保服务器可以访问外网
+  ![](https://i.imesong.com/2025/02/vps-napkin2.png)
 
 ## 软件安装
 
