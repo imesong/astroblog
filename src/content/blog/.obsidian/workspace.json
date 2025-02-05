@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/AI 技术落地的黄金时代.md",
+                "file": "2025/(译)AI 技术落地的黄金时代.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI 技术落地的黄金时代"
+              "title": "(译)AI 技术落地的黄金时代"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/AI 技术落地的黄金时代.md",
+                "file": "2025/(译)AI 技术落地的黄金时代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI 技术落地的黄金时代"
+              "title": "Outline of (译)AI 技术落地的黄金时代"
             }
           },
           {
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 662.5
+    "width": 975.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,9 +205,9 @@
   },
   "active": "de2203bc08f37e69",
   "lastOpenFiles": [
-    "2025/AI 技术落地的黄金时代.md",
-    "2025/当你有一台 VPS.md",
     "2025/(译)二十年后 能记住你加班到深夜的只有子女.md",
+    "2025/(译)AI 技术落地的黄金时代.md",
+    "2025/当你有一台 VPS.md",
     "2025/使用 Notion 打造个人财务系统.md",
     "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
