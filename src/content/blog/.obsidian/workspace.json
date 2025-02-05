@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6709159c6d109f0d",
+        "id": "03acb8341e38730f",
         "type": "tabs",
         "children": [
           {
-            "id": "ffd05067f0db64c8",
+            "id": "de2203bc08f37e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/(译)二十年后 能记住你加班到深夜的只有子女.md",
+                "file": "2025/AI 技术落地的黄金时代.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(译)二十年后 能记住你加班到深夜的只有子女"
+              "title": "AI 技术落地的黄金时代"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/(译)二十年后 能记住你加班到深夜的只有子女.md",
+                "file": "2025/AI 技术落地的黄金时代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (译)二十年后 能记住你加班到深夜的只有子女"
+              "title": "Outline of AI 技术落地的黄金时代"
             }
           },
           {
@@ -174,41 +174,21 @@
             }
           },
           {
-            "id": "6ae9a2ef81bcec05",
+            "id": "1d7aa5d6f044466e",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "455399ea820a46bb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e0abf7820c5695ef",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 662.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,13 +200,14 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ffd05067f0db64c8",
+  "active": "de2203bc08f37e69",
   "lastOpenFiles": [
-    "2025/(译)二十年后 能记住你加班到深夜的只有子女.md",
+    "2025/AI 技术落地的黄金时代.md",
     "2025/当你有一台 VPS.md",
+    "2025/(译)二十年后 能记住你加班到深夜的只有子女.md",
     "2025/使用 Notion 打造个人财务系统.md",
     "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
@@ -259,7 +240,6 @@
     "Excalidraw/Scripts",
     "Excalidraw",
     "_excalidraw/Untitled.canvas",
-    "学习使用-beancount-记账.md",
     "smart-chats",
     "MEM备考/mem-book.webp",
     "English",
