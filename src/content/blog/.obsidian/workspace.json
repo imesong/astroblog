@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/(译)AI 技术落地的黄金时代.md",
+                "file": "2025/现在学习AI, 还能上车吗？.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(译)AI 技术落地的黄金时代"
+              "title": "现在学习AI, 还能上车吗？"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/(译)AI 技术落地的黄金时代.md",
+                "file": "2025/现在学习AI, 还能上车吗？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (译)AI 技术落地的黄金时代"
+              "title": "Outline of 现在学习AI, 还能上车吗？"
             }
           },
           {
@@ -172,19 +172,9 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "1d7aa5d6f044466e",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,8 +195,9 @@
   },
   "active": "de2203bc08f37e69",
   "lastOpenFiles": [
-    "2025/(译)二十年后 能记住你加班到深夜的只有子女.md",
     "2025/(译)AI 技术落地的黄金时代.md",
+    "2025/现在学习AI, 还能上车吗？.md",
+    "2025/(译)二十年后 能记住你加班到深夜的只有子女.md",
     "2025/当你有一台 VPS.md",
     "2025/使用 Notion 打造个人财务系统.md",
     "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
@@ -235,7 +226,6 @@
     "_excalidraw/咖啡之旅-2024-09-23.png",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.png",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
