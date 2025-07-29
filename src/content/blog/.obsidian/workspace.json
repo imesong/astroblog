@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/现在学习AI, 还能上车吗？.md",
+                "file": "2025/心怀荣耀勇往直前-成都 AGAL 获得 EWC 冠军.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "现在学习AI, 还能上车吗？"
+              "title": "心怀荣耀勇往直前-成都 AGAL 获得 EWC 冠军"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.51103591918945
+    "width": 360.50390243530273
   },
   "right": {
     "id": "2946e8863262a652",
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/现在学习AI, 还能上车吗？.md",
+                "file": "2025/web3/合约.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 现在学习AI, 还能上车吗？"
+              "title": "Outline of 合约"
             }
           },
           {
@@ -178,10 +178,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 975.5
+    "width": 975.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "flashcards-obsidian:Generate flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,10 +197,17 @@
   },
   "active": "de2203bc08f37e69",
   "lastOpenFiles": [
+    "2025/web3/合约.md",
+    "2025/心怀荣耀勇往直前-成都 AGAL 获得 EWC 冠军.md",
+    "_draft/obsidian 使用总结.md",
+    "_templates/_draft.md",
+    "_templates/_booknote.md",
+    "_templates/_power_learning_template.md",
+    "2025/当你有一台 VPS.md",
     "2025/(译)AI 技术落地的黄金时代.md",
     "2025/现在学习AI, 还能上车吗？.md",
+    "2025/web3",
     "2025/(译)二十年后 能记住你加班到深夜的只有子女.md",
-    "2025/当你有一台 VPS.md",
     "2025/使用 Notion 打造个人财务系统.md",
     "_excalidraw/arch-for-financial 2024-10-14 17.52.42.excalidraw.md",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.md",
@@ -215,14 +224,8 @@
     "2024",
     "English/TOEIC,你需要知道的.md",
     "Tasks Plugin - Review and check your Statuses 2024-10-21 15-05-53.md",
-    "_templates/_booknote.md",
-    "_templates/_draft.md",
     "tmux-tips.md",
-    "_templates/_power_learning_template.md",
     "_templates/_bottom banner.md",
-    "_draft/个人知识管理v0.2.md",
-    "咖啡患者的自我修养.md",
-    "_excalidraw/咖啡之旅-2024-09-23.md",
     "_excalidraw/咖啡之旅-2024-09-23.png",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.png",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
@@ -235,7 +238,6 @@
     "English",
     "AI",
     "Omnivore/2024-07-07",
-    "Omnivore/2024-07-06",
     "Untitled.canvas",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.svg",
     "_excalidraw/马来西亚之旅-启程-2024-06-08.excalidraw.png",
