@@ -19,7 +19,6 @@
     "@astrojs/check": "^0.4.1",
     "@astrojs/rss": "^4.0.2",
     "@giscus/react": "^3.0.0",
-    "@notionhq/client": "^2.2.15",
     "@resvg/resvg-js": "^2.6.0",
     "astro": "^4.2.1",
     "dotenv": "^16.4.5",
