@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/心怀荣耀勇往直前-成都 AGAL 获得 EWC 冠军.md",
+                "file": "2025/古希腊思想通识课：希罗多德篇.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "心怀荣耀勇往直前-成都 AGAL 获得 EWC 冠军"
+              "title": "古希腊思想通识课：希罗多德篇"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "flashcards-obsidian:Generate flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -197,8 +198,9 @@
   },
   "active": "de2203bc08f37e69",
   "lastOpenFiles": [
-    "2025/web3/合约.md",
+    "2025/古希腊思想通识课：希罗多德篇.md",
     "2025/心怀荣耀勇往直前-成都 AGAL 获得 EWC 冠军.md",
+    "2025/web3/合约.md",
     "_draft/obsidian 使用总结.md",
     "_templates/_draft.md",
     "_templates/_booknote.md",
@@ -225,7 +227,6 @@
     "English/TOEIC,你需要知道的.md",
     "Tasks Plugin - Review and check your Statuses 2024-10-21 15-05-53.md",
     "tmux-tips.md",
-    "_templates/_bottom banner.md",
     "_excalidraw/咖啡之旅-2024-09-23.png",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.png",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
