@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/那些只剩标题的文章们.md",
-                "mode": "source",
+                "file": "2025/有个小目标.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "那些只剩标题的文章们"
+              "title": "有个小目标"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "0213342ddc845f5a",
   "lastOpenFiles": [
-    "Untitled.md",
     "2025/那些只剩标题的文章们.md",
+    "2025/有个小目标.md",
+    "Untitled.md",
     "_templates/_draft.md",
     "2025/古希腊思想通识课：希罗多德篇.md",
     "Untitled 1.md",
@@ -235,7 +236,6 @@
     "2024/2024 年写的那些文字.md",
     "2024/2024 阅读清单.md",
     "pkm/搭建个人知识管理系统v0.1.md",
-    "booknotes/booknote-hub.md",
     "2024",
     "_excalidraw/咖啡之旅-2024-09-23.png",
     "_excalidraw/home for financial page 2024-10-15 13.38.11.excalidraw.png",
